@@ -2,6 +2,7 @@
 [Official viber bot](https://github.com/Viber/viber-bot-node)
 #CHANGES
 * Add a text from message to contacts message object 
+* Add tracking data to messages
 # Viber Node.JS Bot API
 Use this library to develop a bot for the Viber platform.
 The library is available on **[GitHub](https://github.com/Viber/viber-bot-node)** as well as a package on [npm](https://www.npmjs.com/package/viber-bot).
